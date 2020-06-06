@@ -8,3 +8,9 @@
   * i.e answer is 10 seconds 
 * 
 
+# Week 2 
+
+Skipped:
+* (7) last digit of partial sum of fibonacci 
+* (8) last digit of sum of squares
+based on a magic formula.
